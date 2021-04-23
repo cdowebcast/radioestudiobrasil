@@ -3,6 +3,14 @@
 ---
 EN: Unzip and copy programs of the day
 
+Objective:
+
+Facilitate the work of extracting, renaming, creating folders always with the same names to facilitate the creation of permanent playlists for the programs of your radio station. This bat works with the files downloaded from the site, all in a single folder, after processing the names will be standardized and folders will be created for you to use in your automation software or autodj always with the same names.
+
+Register:
+
+You need to register your radio station on the website https://radioestudiobrasil.com.br to have access to download daily and weekly programs. In the registration of your station you choose the programs you are going to use, it can be just some or all the programs offered.
+
 Instructions:
 
 Copy the programs.bat and 7z.exe to the same folder where you downloaded the programs from Rádio Estúdio Brasil (https://radioestudiobrasil.com.br/admin#/programas/downloads), then just enter the folder via prompt command and type: programs.exe <day-of-the-month>, example: programs 23.
@@ -11,6 +19,14 @@ The batch file (bat) will find all the .zip files with the date in the descripti
 
 ---
 PT: Descompactar e copiar programas do dia
+
+Objetivo:
+
+Facilitar o trabalho de extrair, renomear, criar pastas sempre com os mesmos nomes para facilitar a criação de playlists permanentes para os programas da sua estação de rádio. Este bat trabalha com os arquivos baixados do site, todos em uma única pasta, depois de processados os nomes serão padronizados e pastas serão criadas para você utilizar no seu software de automação ou autodj sempre com os mesmos nomes.
+
+Registro:
+
+Você precisa cadastrar a sua estação de rádio no site https://radioestudiobrasil.com.br para ter acesso ao download de programas diários e semanais. No cadastro da sua estação você escolhe os programas que vai usar, pode ser apenas alguns ou todos os programas oferecidos. 
 
 Instruções:
 
