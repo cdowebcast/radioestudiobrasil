@@ -3,6 +3,10 @@
 ---
 EN: Unzip and copy programs of the day
 
+Warning:
+
+I use this batch file to create the folders of the programs offered for free by radioestudiobrasil.com.br that I use in the playlists of my webradio, for me it works perfectly, but I do not give any guarantee, use at your own risk.
+
 Objective:
 
 Facilitate the work of extracting, renaming, creating folders always with the same names to facilitate the creation of permanent playlists for the programs of your radio station. This bat works with the files downloaded from the site, all in a single folder, after processing the names will be standardized and folders will be created for you to use in your automation software or autodj always with the same names.
@@ -19,6 +23,10 @@ The batch file (bat) will find all the .zip files with the date in the descripti
 
 ---
 PT: Descompactar e copiar programas do dia
+
+Advertência:
+
+Utilizo este arquivo batch para criar as pastas dos programas oferecidos gratuitamente pela radioestudiobrasil.com.br que utilizo nas playlists da minha webradio, para mim funciona perfeitamente, mas não dou nenhuma garantia, use por sua própria conta e risco.
 
 Objetivo:
 
