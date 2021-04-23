@@ -575,9 +575,9 @@ goto FIM
 
 :ERRO_DIA
 echo A sintaxe do comando esta incorreta. Use neste formato:
-echo radioestudiobrasil-podcasts.bat [dia-do-mes]
+echo programas.bat [dia-do-mes]
 echo.
-echo Exemplo: radioestudiobrasil-podcasts.bat %date:~0,2%
+echo Exemplo: programas.bat %date:~0,2%
 echo.
 goto FIM
 
