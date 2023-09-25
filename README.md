@@ -1,4 +1,4 @@
-# radioestudiobrasil
+# radioestudiobrasil - Extract/Rename Podcasts
 
 ---
 EN: Unzip and copy programs of the day
@@ -17,7 +17,7 @@ You need to register your radio station on the website https://radioestudiobrasi
 
 Instructions:
 
-Copy the programs.bat and 7z.exe to the same folder where you downloaded the programs from Rádio Estúdio Brasil (https://radioestudiobrasil.com.br/admin#/programas/downloads), then just enter the folder via prompt command and type: programs.exe <day-of-the-month>, example: programs 23.
+Copy the programas.bat and 7z.exe to the same folder where you downloaded the programs from Rádio Estúdio Brasil (https://radioestudiobrasil.com.br/admin#/programas/downloads), then just enter the folder via prompt command and type: programas.exe <day-of-the-month>, example: programas 23.
 
 The batch file (bat) will find all the .zip files with the date in the description, unzip, and copy the programs to their proper folders, if any program is not copied it is because the names have changed and the bat needs to be updated.
 
